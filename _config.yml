@@ -18,9 +18,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 致千里!                          # the main title
+title: 至千里!                          # the main title
 
-tagline: 不积跬步，无以致千里   # it will display as the sub-title
+tagline: 不积跬步，无以至千里   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
